@@ -1,1 +1,7 @@
-# Project-2
+## Technologies
+
+* Node.js
+* Express
+* SQL
+* Sequelize
+* Pug

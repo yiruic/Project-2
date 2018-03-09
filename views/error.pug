@@ -1,0 +1,8 @@
+include partials/_head
+include partials/_nav
+
+h1 Friendly Error Page
+form(action="/books/new" method="post")
+  h2.error Oooops!
+  ul.error
+    li #{error.message}
